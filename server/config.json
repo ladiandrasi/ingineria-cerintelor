@@ -1,0 +1,4 @@
+{
+  "db": "ingineria_cerintelor",
+  "url": "mongodb://localhost:27017"
+}

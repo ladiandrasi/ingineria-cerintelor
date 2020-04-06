@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for app \"ingineria_cerintelor\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -r esm server.js",
+    "start-db": "\"C:\\Program Files\\MongoDB\\Server\\4.2\\bin\\mongod.exe\" --dbpath=\"D:\\Projects\\school\\ingineria_cerintelor\\server\\db\\data\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrasi Ladislau",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.4.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
