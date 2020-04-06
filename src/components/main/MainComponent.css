@@ -1,0 +1,10 @@
+
+.grid-row {
+    height: 90vh;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.grid-col {
+    height: 100%;
+}

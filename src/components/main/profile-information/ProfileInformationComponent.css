@@ -1,0 +1,8 @@
+.profile-information-card {
+    margin-top: 150px;
+    box-shadow: 1px 1px #aaa;
+}
+
+.ant-card-body {
+    padding: 15px;
+}

@@ -1,0 +1,35 @@
+.about-container {
+    height: 92vh;
+    width: 100%;
+}
+
+.creators-title {
+    text-align: center;
+    font-size: 32px;
+    padding-top: 10px;
+}
+
+.about-person {
+    height: 85vh;
+    width: 50%;
+    display: inline-block;
+}
+
+.Aligner {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 85vh;
+}
+
+.Aligner-item {
+    max-width: 50%;
+}
+
+.Aligner-item--top {
+    align-self: flex-start;
+}
+
+.Aligner-item--bottom {
+    align-self: flex-end;
+}

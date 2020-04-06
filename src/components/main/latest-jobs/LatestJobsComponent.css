@@ -1,0 +1,11 @@
+.latest-jobs-container {
+    margin-top: 150px;
+    box-shadow: 1px 1px #aaa;
+}
+
+.short-description-container {
+    padding-top: 10px;
+    height: 115px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

@@ -1,0 +1,16 @@
+.title-container {
+    height: 50px;
+    font-size: 30px;
+    border-bottom: 1px solid #e8e8e8;
+    padding-left: 10px;
+}
+
+.general-information-form {
+    float: left;
+    width: calc(100% - 256px);
+    padding: 30px;
+}
+
+.update-button-container {
+    padding: 10px;
+}

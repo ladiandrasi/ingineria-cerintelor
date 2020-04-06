@@ -1,0 +1,22 @@
+.comment-container {
+    box-shadow: 1px 1px 10px 1px  #aaa;
+    margin-bottom: 25px;
+    margin-top: 12px;
+}
+.ant-comment-inner {
+    padding: 10px;
+}
+
+.ant-comment-content-author-name {
+    font-style: italic;
+}
+.comment-content {
+    padding-right: 15px;
+}
+
+img {
+    max-width:100%;
+}
+iframe {
+    max-width:100%;
+}

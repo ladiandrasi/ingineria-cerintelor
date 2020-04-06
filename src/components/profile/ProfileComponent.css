@@ -1,0 +1,16 @@
+.profile-container {
+    padding: 0 200px 0 200px;
+    height: 93%;
+}
+
+.profile-menu {
+    padding-top: 50px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.profile-content-container {
+    display: inline-block;
+    width: calc(100% - 256px);
+}

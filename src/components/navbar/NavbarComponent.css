@@ -1,0 +1,35 @@
+.navbar-container {
+    height: 7vh;
+    text-align: center;
+    user-select: none;
+    background-color: #636363;
+    color: white;
+}
+.navbar-item {
+    float: left;
+    margin-left: 20px;
+}
+
+.ant-menu .ant-menu-item-selected {
+    border-bottom: none;
+}
+
+.ant-menu .ant-menu-item-selected:hover {
+    border-bottom: none;
+}
+
+
+.menu-account {
+    float: right;
+}
+
+.menuitem-overflowed {
+    float: left;
+}
+
+.profile-picture {
+    width: 32px;
+    height: 32px;
+    display: inline;
+    border-radius: 50%;
+}

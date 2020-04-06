@@ -1,0 +1,16 @@
+.start-post-container > div > span {
+    opacity: 0.8;
+    font-size: 18px;
+}
+
+.start-post-card {
+    box-shadow: 1px 1px 10px 1px #aaa;
+}
+
+.start-post-container > div {
+    display: inline-block;
+    width: 90%;
+    height: 100%;
+    cursor: pointer;
+    margin-left: 10px;
+}
